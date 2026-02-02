@@ -40,10 +40,5 @@ Atuo com **Inteligência Artificial, Análise de Dados, Segurança da Informaç�
 
 ---
 
-## 📈 GitHub Stats
-
-![Janiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janiel-Gomes\&show_icons=true\&theme=github_dark)
-
----
 
 ✨ *Aberto a colaborações e projetos em IA, dados e segurança.*
